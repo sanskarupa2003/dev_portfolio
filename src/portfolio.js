@@ -91,7 +91,7 @@ const educationInfo = {
       logo: require("./assets/images/lpulogo.png"), // Using default logo
       subHeader: "B.Tech in Computer Science",
       duration: "June 2021 - Present",
-      desc: "Currently pursuing B.Tech with a CGPA of 7.27",
+      desc: "Currently pursuing Bachelor's of Technology in Computer Science",
       descBullets: [
         "Focusing on full-stack development and DevOps practices",
         "Participated in various hackathons and coding competitions"
